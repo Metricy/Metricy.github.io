@@ -1,2 +1,2 @@
 # Metricy.github.io
-Homepage for Metricy.
+## [Homepage](https://Metricy.github.io) for Metricy.
